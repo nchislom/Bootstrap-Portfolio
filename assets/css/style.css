@@ -27,6 +27,8 @@ footer {
     background-color: #666666;
     border-top: 3px solid #4aaaa5;
     height: 4em;
+    text-align: center;
+    padding: 1em;
 }
 
 .white-bg {
