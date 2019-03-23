@@ -19,6 +19,17 @@ nav {
     margin-bottom: 2em;
 }
 
+header h1 {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    float: left;
+    position: absolute;
+    padding: 42px;
+    /* height: 120px; */
+    margin: 0;
+    vertical-align: middle;
+}
+
 p {
     line-height: 2em;
 }
@@ -52,6 +63,11 @@ footer {
 
 .teal-text {
     color: #4aaaa5;
+}
+
+.teal-bg {
+    color: #ffffff;
+    background-color: #4aaaa5;
 }
 
 .block {
