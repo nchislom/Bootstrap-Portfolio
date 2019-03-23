@@ -55,6 +55,14 @@ footer {
     background: url('../images/qbkls.png');
     width: 100%;
 }
+.navbar {
+    padding: 0;
+}
+.navbar-brand {
+    background-color: #4aaaa5;
+    margin: 0 auto;
+    padding: 1em;
+}
 
 .profile-pic {
     float: left;
